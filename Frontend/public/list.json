@@ -1,0 +1,67 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"orem ipsum dolor sit amet consectetur adipisicing elit",
+        "Price":20,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721359807~exp=1721363407~hmac=18febe65f3ecd2b6a4949e3cdf9a873c19dfff45b9d486ba1ceebb5595be9afd&w=740"
+    },
+    {
+        "id":2,
+        "name":"Horor Book",
+        "title":"orem ipsum dolor sit amet consectetur adipisicing elit",
+        "Price":100,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721359807~exp=1721363407~hmac=18febe65f3ecd2b6a4949e3cdf9a873c19dfff45b9d486ba1ceebb5595be9afd&w=740"
+    },
+    {
+        "id":3,
+        "name":"Historical Book",
+        "title":"orem ipsum dolor sit amet consectetur adipisicing elit",
+        "Price":200,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721359807~exp=1721363407~hmac=18febe65f3ecd2b6a4949e3cdf9a873c19dfff45b9d486ba1ceebb5595be9afd&w=740"
+    },
+    {
+        "id":4,
+        "name":"Child Book",
+        "title":"orem ipsum dolor sit amet consectetur adipisicing elit",
+        "Price":50,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721359807~exp=1721363407~hmac=18febe65f3ecd2b6a4949e3cdf9a873c19dfff45b9d486ba1ceebb5595be9afd&w=740"
+    },
+    {
+        "id":5,
+        "name":"Hardword Book",
+        "title":"orem ipsum dolor sit amet consectetur adipisicing elit",
+        "Price":90,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721359807~exp=1721363407~hmac=18febe65f3ecd2b6a4949e3cdf9a873c19dfff45b9d486ba1ceebb5595be9afd&w=740"
+    },
+    {
+        "id":6,
+        "name":"National Book",
+        "title":"orem ipsum dolor sit amet consectetur adipisicing elit",
+        "Price":80,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721359807~exp=1721363407~hmac=18febe65f3ecd2b6a4949e3cdf9a873c19dfff45b9d486ba1ceebb5595be9afd&w=740"
+    },
+    {
+        "id":7,
+        "name":"Animal Book",
+        "title":"orem ipsum dolor sit amet consectetur adipisicing elit",
+        "Price":40,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721359807~exp=1721363407~hmac=18febe65f3ecd2b6a4949e3cdf9a873c19dfff45b9d486ba1ceebb5595be9afd&w=740"
+    },
+    {
+        "id":8,
+        "name":"Life Book",
+        "title":"orem ipsum dolor sit amet consectetur adipisicing elit",
+        "Price":300,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721359807~exp=1721363407~hmac=18febe65f3ecd2b6a4949e3cdf9a873c19dfff45b9d486ba1ceebb5595be9afd&w=740"
+    }
+    
+]
