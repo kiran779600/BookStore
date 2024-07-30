@@ -16,7 +16,7 @@ function Login() {
       <div>
         <dialog id="my_modal_3" className="modal">
           <div className="modal-box">
-            <form onSubmit={handleSubmit(onSubmit)} method="dialog">
+            <form  onSubmit={handleSubmit(onSubmit)} method="dialog">
               <Link to="/" className="btn btn-sm btn-circle btn-ghost absolute right-2 top-2">✕</Link>
               <h3 className="font-bold text-lg">Login</h3>
               {/* Email */}
